@@ -1,1 +1,3 @@
 Bonjour, voici le premier fichier ajouté à mon activité OCR
+
+Je modifie ici mon texte avant de commit cette modification
